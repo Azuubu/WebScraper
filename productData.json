@@ -1,0 +1,252 @@
+[
+  {
+    "symbol": "BTC-USD",
+    "name": "Bitcoin USD",
+    "price": "26,582.19",
+    "change": "+187.48",
+    "marketcap": "518.022B",
+    "volume24h": "9.069B",
+    "circulatinsupply": "19.488M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+  },
+  {
+    "symbol": "ETH-USD",
+    "name": "Ethereum USD",
+    "price": "1,637.18",
+    "change": "+15.91",
+    "marketcap": "196.827B",
+    "volume24h": "3.72B",
+    "circulatinsupply": "120.223M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+  },
+  {
+    "symbol": "USDT-USD",
+    "name": "Tether USDt USD",
+    "price": "1.0006",
+    "change": "+0.0005",
+    "marketcap": "83.09B",
+    "volume24h": "17.109B",
+    "circulatinsupply": "83.042B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+  },
+  {
+    "symbol": "BNB-USD",
+    "name": "BNB USD",
+    "price": "214.77",
+    "change": "+2.65",
+    "marketcap": "33.042B",
+    "volume24h": "605.372M",
+    "circulatinsupply": "153.848M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+  },
+  {
+    "symbol": "XRP-USD",
+    "name": "XRP USD",
+    "price": "0.501212",
+    "change": "+0.005641",
+    "marketcap": "26.652B",
+    "volume24h": "619.509M",
+    "circulatinsupply": "53.175B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+  },
+  {
+    "symbol": "USDC-USD",
+    "name": "USD Coin USD",
+    "price": "1.0004",
+    "change": "+0.0003",
+    "marketcap": "26.149B",
+    "volume24h": "2.138B",
+    "circulatinsupply": "26.139B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+  },
+  {
+    "symbol": "STETH-USD",
+    "name": "Lido Staked ETH USD",
+    "price": "1,635.16",
+    "change": "+13.83",
+    "marketcap": "14.135B",
+    "volume24h": "5.496M",
+    "circulatinsupply": "8.644M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png"
+  },
+  {
+    "symbol": "DOGE-USD",
+    "name": "Dogecoin USD",
+    "price": "0.062231",
+    "change": "+0.000299",
+    "marketcap": "8.777B",
+    "volume24h": "160.521M",
+    "circulatinsupply": "141.034B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+  },
+  {
+    "symbol": "ADA-USD",
+    "name": "Cardano USD",
+    "price": "0.249802",
+    "change": "+0.003608",
+    "marketcap": "8.769B",
+    "volume24h": "102.786M",
+    "circulatinsupply": "35.105B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+  },
+  {
+    "symbol": "WTRX-USD",
+    "name": "Wrapped TRON USD",
+    "price": "0.082658",
+    "change": "-0.000867",
+    "marketcap": "8.404B",
+    "volume24h": "297,596",
+    "circulatinsupply": "101.676B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/18579.png"
+  },
+  {
+    "symbol": "TON11419-USD",
+    "name": "Toncoin USD",
+    "price": "2.3336",
+    "change": "+0.3167",
+    "marketcap": "8.009B",
+    "volume24h": "88.54M",
+    "circulatinsupply": "3.432B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png"
+  },
+  {
+    "symbol": "SOL-USD",
+    "name": "Solana USD",
+    "price": "19.05",
+    "change": "+0.39",
+    "marketcap": "7.835B",
+    "volume24h": "181.116M",
+    "circulatinsupply": "411.258M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+  },
+  {
+    "symbol": "TRX-USD",
+    "name": "TRON USD",
+    "price": "0.083495",
+    "change": "-0.000049",
+    "marketcap": "7.447B",
+    "volume24h": "152.772M",
+    "circulatinsupply": "89.19B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+  },
+  {
+    "symbol": "DAI-USD",
+    "name": "Dai USD",
+    "price": "1.0000",
+    "change": "+0.0000",
+    "marketcap": "5.348B",
+    "volume24h": "73.389M",
+    "circulatinsupply": "5.348B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+  },
+  {
+    "symbol": "DOT-USD",
+    "name": "Polkadot USD",
+    "price": "4.1551",
+    "change": "+0.0492",
+    "marketcap": "5.086B",
+    "volume24h": "86.631M",
+    "circulatinsupply": "1.224B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+  },
+  {
+    "symbol": "MATIC-USD",
+    "name": "Polygon USD",
+    "price": "0.528089",
+    "change": "+0.008544",
+    "marketcap": "4.922B",
+    "volume24h": "196.918M",
+    "circulatinsupply": "9.319B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+  },
+  {
+    "symbol": "LTC-USD",
+    "name": "Litecoin USD",
+    "price": "65.05",
+    "change": "+0.36",
+    "marketcap": "4.792B",
+    "volume24h": "256.532M",
+    "circulatinsupply": "73.661M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+  },
+  {
+    "symbol": "SHIB-USD",
+    "name": "Shiba Inu USD",
+    "price": "0.00000739",
+    "change": "+0.00000003",
+    "marketcap": "4.358B",
+    "volume24h": "72.233M",
+    "circulatinsupply": "589.347T",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+  },
+  {
+    "symbol": "WBTC-USD",
+    "name": "Wrapped Bitcoin USD",
+    "price": "26,574.78",
+    "change": "+204.98",
+    "marketcap": "4.331B",
+    "volume24h": "208.944M",
+    "circulatinsupply": "162,974",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+  },
+  {
+    "symbol": "BCH-USD",
+    "name": "Bitcoin Cash USD",
+    "price": "216.80",
+    "change": "+4.37",
+    "marketcap": "4.229B",
+    "volume24h": "215.303M",
+    "circulatinsupply": "19.506M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+  },
+  {
+    "symbol": "LINK-USD",
+    "name": "Chainlink USD",
+    "price": "6.2312",
+    "change": "+0.0171",
+    "marketcap": "3.47B",
+    "volume24h": "116.052M",
+    "circulatinsupply": "556.85M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+  },
+  {
+    "symbol": "LEO-USD",
+    "name": "UNUS SED LEO USD",
+    "price": "3.6528",
+    "change": "-0.0092",
+    "marketcap": "3.395B",
+    "volume24h": "580,041",
+    "circulatinsupply": "929.296M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png"
+  },
+  {
+    "symbol": "AVAX-USD",
+    "name": "Avalanche USD",
+    "price": "9.4401",
+    "change": "+0.2038",
+    "marketcap": "3.341B",
+    "volume24h": "88.294M",
+    "circulatinsupply": "353.94M",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png"
+  },
+  {
+    "symbol": "XLM-USD",
+    "name": "Stellar USD",
+    "price": "0.118985",
+    "change": "+0.000456",
+    "marketcap": "3.276B",
+    "volume24h": "54.99M",
+    "circulatinsupply": "27.537B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+  },
+  {
+    "symbol": "TUSD-USD",
+    "name": "TrueUSD USD",
+    "price": "0.999405",
+    "change": "+0.000102",
+    "marketcap": "3.102B",
+    "volume24h": "442.853M",
+    "circulatinsupply": "3.104B",
+    "symbolimgurl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+  }
+]
