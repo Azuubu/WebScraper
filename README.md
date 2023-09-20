@@ -4,12 +4,12 @@
 ## Description
 The project is made entirely using *GO* language & a 3rd party library named *Colly*
 
-This project allows the user to swiftly scrape the needed data from the website of one's choice.
-After a bit of initial setup (choosing what exactly we want to look for in the website),
+This project allows the user to swiftly scrape the needed data from the website of one's choice.  
+After a bit of initial setup (choosing what exactly we want to look for in the website),  
 the navigation throughout the project is rather simple due to its low code volume.
 
-The project doesn't include a proxy, so it can't really scrape protected websites.
-Nevertheless, it serves as a great tool for some content managers as well as starting developers,
+The project doesn't include a proxy, so it can't really scrape protected websites.  
+Nevertheless, it serves as a great tool for some content managers as well as starting developers,  
 allowing them to get data freely and practice processing the data.
 
 ## Pros
